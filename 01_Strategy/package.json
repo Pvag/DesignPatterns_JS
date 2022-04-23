@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "implement-js": "^0.0.31"
+  }
+}
